@@ -1,0 +1,28 @@
+# Dados e datasets (gerados/baixados; ver README)
+Bbox_diff/
+BurnScarDataset_SSD/
+dataset_kaggle/
+
+# Pesos e checkpoints dos modelos
+*.pth
+*.pth.tar
+*.pkl
+*.pt
+
+# Resultados e saídas geradas
+results/
+*.csv
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Sistema / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.claude/

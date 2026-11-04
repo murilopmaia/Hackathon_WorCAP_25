@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+pillow
+opencv-python
+rasterio
+spyndex
+xarray
+albumentations
+scikit-learn
+tqdm
+torch
+torchvision
+jupyter
